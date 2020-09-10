@@ -1,4 +1,4 @@
-////sandy goreraza zimbabwe
+////sandy goreraza GAD zimbabwe
 
 package com.example.sandygorerazagad;
 
