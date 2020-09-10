@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView
+    android:layout_width="match_parent"
+    app:cardElevation="5dp"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:cardUseCompatPadding="true"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="wrap_content">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="8dp">
+
+        <TextView
+            android:id="@+id/learninghours2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/title2"
+            android:layout_marginStart="44dp"
+            android:layout_marginLeft="44dp"
+            android:layout_marginTop="5dp"
+            android:layout_toEndOf="@id/badgeurl2"
+            android:layout_toRightOf="@id/badgeurl2"
+            android:text="@string/placeholder_skilliq"
+            android:textAppearance="@style/Base.TextAppearance.AppCompat.Small" />
+
+        <ImageView
+            android:id="@+id/badgeurl2"
+            android:layout_width="120dp"
+            android:layout_height="90dp"
+            android:contentDescription="@string/todo"
+            android:padding="4dp" />
+
+        <TextView
+            android:id="@+id/title2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="5dp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginTop="30dp"
+            android:layout_toEndOf="@id/badgeurl2"
+            android:layout_toRightOf="@id/badgeurl2"
+            android:text="@string/placeholder"
+            android:textAppearance="@style/Base.TextAppearance.AppCompat.Small"
+            android:textColor="#000000" />
+
+
+        <TextView
+            android:id="@+id/country2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/title2"
+            android:layout_marginStart="140dp"
+            android:layout_marginLeft="140dp"
+            android:layout_marginTop="5dp"
+            android:layout_toEndOf="@id/badgeurl2"
+            android:layout_toRightOf="@id/badgeurl2"
+            android:text="@string/country_empty"
+            android:textAppearance="@style/Base.TextAppearance.AppCompat.Small" />
+
+        <TextView
+            android:id="@+id/description2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/title2"
+            android:layout_marginStart="8dp"
+            android:layout_marginLeft="8dp"
+            android:layout_marginTop="5dp"
+            android:layout_toEndOf="@id/badgeurl2"
+            android:layout_toRightOf="@id/badgeurl2"
+            android:text="@string/empty"
+            android:textAppearance="@style/Base.TextAppearance.AppCompat.Small" />
+
+
+    </RelativeLayout>
+</androidx.cardview.widget.CardView>

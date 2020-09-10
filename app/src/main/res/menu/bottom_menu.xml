@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:title="@string/learning_leaders"
+        android:id="@+id/home"
+
+        app:showAsAction="always"/>
+    <item
+        android:title="@string/skills_iq_leaders"
+        android:id="@+id/skillsIQ"
+
+        app:showAsAction="always"/>
+
+</menu>

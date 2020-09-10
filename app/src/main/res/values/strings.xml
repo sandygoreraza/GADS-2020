@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">LEADERBOARD</string>
+    <string name="LeadMessage">LEADERBOARD</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="placeholder">Student Name</string>
+    <string name="placeholder_value">learning hours,</string>
+    <string name="placeholder_skilliq">skill IQ Score,</string>
+    <string name="empty">hours</string>
+    <string name="todo">TODO</string>
+    <string name="leaderboard">LEADERBOARD</string>
+    <string name="submit_btn">submit</string>
+    <string name="skills_iq_leaders">Skills IQ Leaders</string>
+    <string name="learning_leaders">Learning Leaders</string>
+    <string name="country_empty">country</string>
+    <string name="gad">Google Africa  Developer ScholarShip</string>
+    <string name="FirstName">First Name</string>
+    <string name="LastName">Last Name</string>
+    <string name="email">Email Address</string>
+    <string name="projectlink">Project on GITHUB (link)</string>
+    <string name="projectsub">Project Submission</string>
+    <string name="button_share_text">Share</string>
+    <string name="button_save_text">Save</string>
+
+</resources>
