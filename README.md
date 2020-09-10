@@ -15,6 +15,8 @@ This project uses the following models :
 
 and lastly a NETWORK POST request to a Google Form using any network library Retrofit.
 
+APP SCREENSHOTS
+
 
 <img src="https://github.com/yonasgoreraza/sandygorerazagad/blob/sandygorerazaGADProjectPhaseII/screenshot-2020-09-10_21.52.53.487.png" width="250" hspace="20" style="max-width:100%;">
 
