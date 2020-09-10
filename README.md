@@ -10,12 +10,13 @@ This project uses the following models :
 2. View pager
 3. Customizing Toolbar
 4. RecyclerView
+5. AsyncTask
 5. Making Network Request
 
 
 and lastly a NETWORK POST request to a Google Form using any network library Retrofit.
 
-APP SCREENSHOTS
+<b>APP SCREENSHOTS</b> :
 
 
 <img src="https://github.com/yonasgoreraza/sandygorerazagad/blob/sandygorerazaGADProjectPhaseII/screenshot-2020-09-10_21.52.53.487.png" width="250" hspace="20" style="max-width:100%;">
