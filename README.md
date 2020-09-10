@@ -17,3 +17,18 @@ and lastly a NETWORK POST request to a Google Form using any network library Ret
 
 
 <img src="https://github.com/yonasgoreraza/sandygorerazagad/blob/sandygorerazaGADProjectPhaseII/screenshot-2020-09-10_21.52.53.487.png" width="250" hspace="20" style="max-width:100%;">
+
+<img src="https://github.com/yonasgoreraza/sandygorerazagad/blob/sandygorerazaGADProjectPhaseII/screenshot-2020-09-10_21.52.54.215.png" width="250" hspace="20" style="max-width:100%;">
+
+<img src="https://github.com/yonasgoreraza/sandygorerazagad/blob/sandygorerazaGADProjectPhaseII/screenshot-2020-09-10_21.52.55.103.png" width="250" hspace="20" style="max-width:100%;">
+
+<img src="https://github.com/yonasgoreraza/sandygorerazagad/blob/sandygorerazaGADProjectPhaseII/screenshot-2020-09-10_21.52.59.632.png" width="250" hspace="20" style="max-width:100%;">
+
+<img src="https://github.com/yonasgoreraza/sandygorerazagad/blob/sandygorerazaGADProjectPhaseII/screenshot-2020-09-10_21.53.03.367.png" width="250" hspace="20" style="max-width:100%;">
+
+<img src="https://github.com/yonasgoreraza/sandygorerazagad/blob/sandygorerazaGADProjectPhaseII/screenshot-2020-09-10_21.53.11.615.png" width="250" hspace="20" style="max-width:100%;">
+
+
+<img src="https://github.com/yonasgoreraza/sandygorerazagad/blob/sandygorerazaGADProjectPhaseII/screenshot-2020-09-10_21.53.18.911.png" width="250" hspace="20" style="max-width:100%;">
+
+
