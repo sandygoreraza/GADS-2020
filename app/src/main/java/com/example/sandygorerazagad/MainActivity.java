@@ -1,5 +1,3 @@
-////sandy goreraza GAD
-
 package com.example.sandygorerazagad;
 
 import androidx.annotation.NonNull;
