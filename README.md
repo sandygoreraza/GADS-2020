@@ -14,7 +14,7 @@ This project uses the following models :
 5. Making Network Request
 
 
-and lastly a NETWORK POST request to a Google Form using any network library Retrofit.
+and lastly a NETWORK POST request to a Google Form using a network library Retrofit.
 
 <b>APP SCREENSHOTS</b> :
 
