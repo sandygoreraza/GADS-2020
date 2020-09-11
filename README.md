@@ -34,4 +34,6 @@ and lastly a NETWORK POST request to a Google Form using a network library Retro
 
 <img src="https://github.com/yonasgoreraza/sandygorerazagad/blob/sandygorerazaGADProjectPhaseII/screenshot-2020-09-10_21.53.18.911.png" width="250" hspace="20" style="max-width:100%;">
 
+<img src="https://github.com/yonasgoreraza/sandygorerazagad/blob/sandygorerazaGADProjectPhaseII/screenshot-2020-09-11_11.01.59.663.png" width="250" hspace="20" style="max-width:100%;">
+
 
