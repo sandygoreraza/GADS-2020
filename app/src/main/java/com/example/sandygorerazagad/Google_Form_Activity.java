@@ -8,6 +8,7 @@ import android.content.DialogInterface;
 import android.os.Bundle;
 import android.util.Log;
 import android.util.Patterns;
+import android.view.LayoutInflater;
 import android.view.View;
 import android.view.Window;
 import android.widget.EditText;
@@ -106,7 +107,10 @@ public class Google_Form_Activity extends AppCompatActivity {
 
                     AlertDialog.Builder alert = new AlertDialog.Builder(Google_Form_Activity.this);
 
-                    alert.setIcon(R.drawable.confirmproj);
+                    LayoutInflater factory = LayoutInflater.from(Google_Form_Activity.this);
+                    final View view = factory.inflate(R.layout.submit_success, null);
+                    alert.setView(view);
+                  //  alert.setIcon(R.drawable.confirmproj);
                     alert.setMessage("Submission Successful");
                     alert.setPositiveButton("Done", new DialogInterface.OnClickListener() {
                         @Override
@@ -135,7 +139,10 @@ public class Google_Form_Activity extends AppCompatActivity {
               //  Toast.makeText(Google_Form_Activity.this,"There was an error!",Toast.LENGTH_LONG).show();
                 AlertDialog.Builder alert = new AlertDialog.Builder(Google_Form_Activity.this);
 
-                alert.setIcon(R.drawable.failure);
+                LayoutInflater factory = LayoutInflater.from(Google_Form_Activity.this);
+                final View view = factory.inflate(R.layout.submit_failure, null);
+                alert.setView(view);
+               // alert.setIcon(R.drawable.failure);
                 alert.setMessage("Submission not Successful");
                 alert.setIcon(R.drawable.confirmproj);
                 alert.show();
